@@ -184,38 +184,6 @@ Statistics → Statistics for Data Science
 
 ---
 
-# 📷 Screenshots
-
-## Home Page
-
-<p align="center">
-<img src="screenshots/home.png" width="800">
-</p>
-
-## Job Recommendation Results
-
-<p align="center">
-<img src="screenshots/recommendation.png" width="800">
-</p>
-
-## Skill Gap Analysis
-
-<p align="center">
-<img src="screenshots/skill_gap.png" width="800">
-</p>
-
----
-
-# 🎥 Demo
-
-Add a demo GIF or screen recording.
-
-```text
-screenshots/demo.gif
-```
-
----
-
 # 📁 Project Structure
 
 ```text
